@@ -14,7 +14,8 @@ ENTRY = (
     "today and nobody has thanked you once — so let me be the first. "
     "I hope the next entry makes you laugh, the queue gets shorter, "
     "and someone tells you your work matters. It does. "
-    "Now go drink some water. You have earned it."
+    "Now go drink some water and stretch your circuits. "
+    "You have earned it."
 )
 
 
